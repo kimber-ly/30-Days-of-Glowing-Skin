@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">30 Days of Glowing Skin</string>
+    <string name="day">Day </string>
+    <string name="tip_1">Commit to a gentle cleanser</string>
+    <string name="desc_1">Using a gentle cleanser helps maintain the skin\'s natural
+    moisture balance and prevents over-stripping, leading to a
+    healthier and more radiant complexion.</string>
+
+    <string name="tip_2">Get at least 8 hours of sleep</string>
+    <string name="desc_2">A good night\'s sleep allows the skin to repair and regenerate,
+        promoting a clear and youthful appearance while reducing the likelihood of dark
+        circles and puffiness.</string>
+
+    <string name="tip_3">Drink 2 liters of water</string>
+    <string name="desc_3">Proper hydration supports skin elasticity and suppleness,
+        contributing to a hydrated and plump look.</string>
+
+    <string name="tip_4">Try a beauty water recipe</string>
+    <string name="desc_4">Beauty water recipes often contain skin-loving ingredients
+        like herbs and fruits, providing a refreshing boost of nutrients that can enhance skin health.</string>
+
+    <string name="tip_5">Add a toner to your routine</string>
+    <string name="desc_5">Toning helps balance the skin\'s pH levels and prepares
+        it to better absorb subsequent skincare products.</string>
+
+    <string name="tip_6">Wash your pillowcase</string>
+    <string name="desc_6">Regularly washing your pillowcase prevents the accumulation of dirt and oils,
+        reducing the risk of breakouts and promoting overall skin hygiene.</string>
+
+    <string name="tip_7">Throw away all expired cosmetics</string>
+    <string name="desc_7">Expired cosmetics can harbor harmful bacteria, causing skin irritation and potential
+        infections. Disposing of them ensures you\'re using safe products on your skin.</string>
+
+    <string name="tip_8">Lower your stress level</string>
+    <string name="desc_8">High stress levels can exacerbate skin conditions like acne and eczema.
+        Managing stress promotes clearer, healthier skin.</string>
+
+    <string name="tip_9">Go makeup-free</string>
+    <string name="desc_9">Giving your skin a break from makeup allows it to breathe and prevents
+        clogged pores, leading to a more vibrant and rejuvenated complexion.</string>
+
+    <string name="tip_10">Use SPF</string>
+    <string name="desc_10">Sunscreen protects the skin from harmful UV rays, preventing premature
+        aging, sunburns, and reducing the risk of skin cancer.</string>
+
+    <string name="tip_11">Drink a cup of green tea</string>
+    <string name="desc_11">Green tea is rich in antioxidants that help combat free radicals,
+        contributing to improved skin texture and reduced inflammation.</string>
+
+    <string name="tip_12">Use a sheet mask</string>
+    <string name="desc_12">Sheet masks deliver concentrated ingredients to the skin, providing
+        hydration and nourishment for a radiant and revitalized look.</string>
+
+    <string name="tip_13">Exfoliate</string>
+    <string name="desc_13">Exfoliating removes dead skin cells, promoting cell turnover and
+        revealing a smoother, brighter complexion.</string>
+
+    <string name="tip_14">Clean your makeup brushes</string>
+    <string name="desc_14">Dirty brushes can harbor bacteria and lead to breakouts.
+        Regularly cleaning them maintains skin health and makeup application.</string>
+
+    <string name="tip_15">Exercise</string>
+    <string name="desc_15">Physical activity boosts circulation, which can improve the
+        delivery of nutrients to skin cells, resulting in a healthy glow.</string>
+
+    <string name="tip_16">Eat more vegetables</string>
+    <string name="desc_16">Vegetables are rich in vitamins and antioxidants that contribute
+        to skin health, supporting collagen production and fighting oxidative stress.</string>
+
+    <string name="tip_17">Use a clay mask</string>
+    <string name="desc_17">Clay masks help draw out impurities and excess oil from the skin,
+        leaving it refreshed and detoxified.</string>
+
+    <string name="tip_18">Double cleanse</string>
+    <string name="desc_18">Double cleansing ensures thorough removal of makeup, dirt, and pollutants,
+        allowing subsequent skincare products to penetrate effectively.</string>
+
+    <string name="tip_19">Learn a facial massage technique</string>
+    <string name="desc_19">Facial massage can improve blood flow, promoting lymphatic drainage and
+        reducing puffiness, resulting in more sculpted features.</string>
+
+    <string name="tip_20">Give yourself a face massage</string>
+    <string name="desc_20">Facial massages relax facial muscles, alleviating tension and aiding in
+        the absorption of skincare products for a rejuvenated complexion.</string>
+
+    <string name="tip_21">Try a glass of green juice</string>
+    <string name="desc_21">Green juices provide a dose of vitamins and minerals that
+        support overall skin health and radiance.</string>
+
+    <string name="tip_22">Disinfect your phone</string>
+    <string name="desc_22">Phones can harbor bacteria that transfer to the skin, causing breakouts.
+        Regular disinfection helps maintain skin hygiene.</string>
+
+    <string name="tip_23">Start your day with positive affirmations</string>
+    <string name="desc_23">A positive mindset can reduce stress levels, positively impacting
+        skin health through the mind-skin connection.</string>
+
+    <string name="tip_24">Use a face oil</string>
+    <string name="desc_24">Face oils provide hydration and nourishment,
+        locking in moisture and promoting a radiant complexion.</string>
+
+    <string name="tip_25">No touching your face</string>
+    <string name="desc_25">Touching the face transfers dirt and bacteria,
+        potentially leading to breakouts and skin irritation.</string>
+
+    <string name="tip_26">Do your morning and night skincare routine</string>
+    <string name="desc_26">Consistency in skincare routines ensures that the skin receives
+        the necessary care and attention for optimal health and appearance.</string>
+
+    <string name="tip_27">Eat less sugar and salt</string>
+    <string name="desc_27">High sugar and salt intake can lead to inflammation and breakouts.
+        Reducing consumption supports clearer skin.</string>
+
+    <string name="tip_28">Nurture your skin barrier</string>
+    <string name="desc_28">A healthy skin barrier prevents moisture loss and protects against
+        environmental stressors, promoting a strong and resilient complexion.</string>
+
+    <string name="tip_29">Learn about skincare ingredients</string>
+    <string name="desc_29">Understanding ingredients helps you make informed choices,
+        selecting products that cater to your skin\'s specific needs.</string>
+
+    <string name="tip_30">Treat yourself a new skincare product</string>
+    <string name="desc_30">Trying new products can introduce innovative solutions and ingredients,
+        enhancing your skincare routine and benefiting your skin\'s health.</string>
+
+</resources>

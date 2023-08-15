@@ -6,3 +6,8 @@ The animations include spring animation and color animation.
 The UI of this app was made according to Material Design. 
 
 I include the "sources" file inside the main branch to give credit to the original creators of the ideas and images.
+
+You can use this project as a reference, but please don't copy the whole app.
+
+Regards, 
+Kimberly
